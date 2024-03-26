@@ -1,0 +1,22 @@
+{
+  "name": "jenkins_scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredericEducentre/jenkins_scss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredericEducentre/jenkins_scss/issues"
+  },
+  "homepage": "https://github.com/fredericEducentre/jenkins_scss#readme",
+  "dependencies": {
+    "sass": "^1.72.0"
+  }
+}
